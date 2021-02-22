@@ -34,7 +34,6 @@ const widgetsRoutes = require("./routes/widgets");
 // Mount all resource routes
 // Note: Feel free to replace the example routes below with your own
 app.use("/api/users", usersRoutes(client));
-app.use("/api/widgets", widgetsRoutes(client));
 // Note: mount other resources here, using the same pattern above
 
 // Home page
