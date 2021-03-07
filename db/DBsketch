@@ -1,5 +1,6 @@
 users
 name
+password
 email
 company
 phone_number
@@ -21,17 +22,19 @@ category
 price_from_vendor
 sell_price
 item_size
-vendor
+vendor_id
+sku
+
+item_sizes
+container_type
+container_size
+container_weight
 
 vendors
 company_name
 agent_name
 agent_email
 agent_phone_number
-item
-
-item_sizes
-(keg, can, bottle)
 
 counts
 venue
