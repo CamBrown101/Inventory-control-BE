@@ -8,11 +8,17 @@ is_admin
 last_loggin
 is_active
 
+company
+name
+email
+phone_number
+
 venue
 name
 location
 
 storage_areas
+venue_id
 name
 items
 
