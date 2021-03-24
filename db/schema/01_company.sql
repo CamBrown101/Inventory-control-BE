@@ -3,5 +3,5 @@ CREATE TABLE company (
   company_name VARCHAR(255) NOT NULL,
   contact_name VARCHAR(255) NOT NULL,
   email VARCHAR(255) NOT NULL,
-  phone_number INTEGER NOT NULL
+  phone_number VARCHAR(255)
 )
